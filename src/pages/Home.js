@@ -8,6 +8,7 @@ function Home() {
         <h2> Hi, My Name is Mohammad</h2>
         <div className="prompt">
           <p>A Full Stack Web Developer that wants to take the first steps to becoming a legend</p>
+          <p><b>Contact: </b>Junaidsattar47@gmail.com</p>
         </div>
       </div>
       <div className="skills">
