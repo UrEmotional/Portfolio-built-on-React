@@ -3,7 +3,7 @@
   "name": "portfo",
   "version": "0.1.0",
   "engines": {
-    "node": "16.13.0",
+    "node": "18.x",
     "npm": "8.1.0"
   },
   "private": true,
